@@ -33,6 +33,15 @@ hr {
   align-items: center;
 }
 
+#bannerSoup {
+  background-image: url(/french-soup/images/soup.jpg);
+  background-size: cover;
+  height: 24rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #banner h1 {
   color: white;
   text-align: center;
